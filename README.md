@@ -194,7 +194,7 @@ Through this project, I gained practical experience with:
 
 ## 👨‍💻 Author
 
-**Deepak Sannasi**
+**Deepak**
 
 AWS | DevOps | Terraform | Linux | Git
 
